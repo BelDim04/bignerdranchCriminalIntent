@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="crime_title_hint">Введите заголовок для проступка.</string>
+    <string name="crime_title_label">Заголовок</string>
+    <string name="crime_details_label">Детали</string>
+    <string name="crime_solved_label">Решено</string>
+    <string name="contact_the_police">Связаться с полицией!</string>
+    <string name="new_crime">Новый проступок</string>
+    <string name="crime_suspect_text">Выбрать подозреваемого</string>
+    <string name="crime_report_text">Отправить отчёт о проступке</string>
+    <string name="list_is_empty">Список пуст</string>
+    <string name="crime_report">%1$s! Проступок был выявлен %2$s. %3$s, и %4$s</string>
+    <string name="crime_report_solved">Случай решён</string>
+    <string name="crime_report_unsolved">Случай не решён</string>
+    <string name="crime_report_no_suspect">подозреваемых нет.</string>
+    <string name="crime_report_suspect">подозреваемый - %s.</string>
+    <string name="crime_report_subject">CriminalIntent Отчёт</string>
+    <string name="send_report">Отправить отчёт</string>
+    <string name="call_suspect">Связаться с подозреваемым!</string>
+    <string name="no_number">Контакт не найден или не имеет номера</string>
+    <string name="need_permission">Требуется ваше разрешение</string>
+    <string name="crime_picture_not_set">Фото проступка (не задано)</string>
+    <string name="crime_picture_set">Фото проступка (задано)</string>
+    <string name="take_crime_picture">Сделать снимок</string>
+    <string name="crime_date_label">Дата</string>
+    <string name="crime_time_label">Время</string>
+    <string name="crime_suspect_label">Подозреваемый</string>
+    <string name="crime_report_label">Отчёт</string>
+    <string name="delete_crime">Удалить проступок</string>
+    <string name="crime_deleted">Проступок %s удален</string>
+</resources>
