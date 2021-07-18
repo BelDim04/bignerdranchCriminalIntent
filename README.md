@@ -13,3 +13,5 @@
 - Диалоговые окна
 - Неявные интенты
 - Локализация
+## Скачать
+[CriminalIntent.apk](https://github.com/BelDim04/bignerdranchCriminalIntent/blob/master/CriminalIntent.apk)
