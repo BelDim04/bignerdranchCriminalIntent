@@ -4,7 +4,7 @@
 ## Описание
 Приложение для хранения информации о различных происшествий с возможностью обозначить дату и время, участника ссобытия и сделать фото.
 <img src="https://github.com/BelDim04/bignerdranchCriminalIntent/blob/master/Screenshot_20210718-113929.png" alt="Иллюстрация" width="270"/>
-<img src="https://github.com/BelDim04/bignerdranchCriminalIntent/blob/master/Screenshot_20210718-113937.png" alt="Иллюстрация" height="270"/>
+<img src="https://github.com/BelDim04/bignerdranchCriminalIntent/blob/master/Screenshot_20210718-113937.png" alt="Иллюстрация" width="270"/>
 ## Приобретённые навыки
 - UI-фрагменты
 - Вывод списков
